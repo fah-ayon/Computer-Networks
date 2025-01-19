@@ -1,0 +1,8 @@
+Lab2 :  NS3 - Home Task : https://youtu.be/znwFYcbVSGM
+	Packet Tracer - Class Task : https://youtu.be/bub0_VvpUPQ
+	In this video, you will have an idea about NetAnim and the first.xml file. Furthermore, we can install 	wireshark in ubuntu as well and observe the network traffic in the form of pcap files.
+	Link : https://youtu.be/V34E4KaE56g?si=lPBzSPuxm7Qo0SW-
+	
+Lab3 : https://youtu.be/poiGavM9_Yc
+
+
