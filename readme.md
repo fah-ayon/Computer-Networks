@@ -37,6 +37,12 @@ Notes explaining the OSI model and its layers to build a strong foundation in ne
 ### 5. **Lecture Slides**
 Lecture slides from the course, summarizing key concepts and providing visual aids to enhance learning.
 
+### 6. **Quiz Questions**
+Quiz questions of the semester with solving.
+
+### 5. **Practice Problems**
+Practice Problems from previous semester.
+
 ---
 
 ## Getting Started
